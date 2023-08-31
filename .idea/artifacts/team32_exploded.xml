@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="team32_exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/team32_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Chunjae_Team_Pro02/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Chunjae_Team_Pro02" />
+        </element>
+      </element>
+      <element id="library" level="project" name="apache.tomcat.servlet.api" />
+      <element id="library" level="project" name="commons-collections-3.2.2" />
+      <element id="library" level="project" name="cos" />
+      <element id="library" level="project" name="javax.servlet.api" />
+    </root>
+  </artifact>
+</component>
